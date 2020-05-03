@@ -23,12 +23,3 @@ Nombre: Oscar David Mesa Calderon
 - Bases Datos Replicacion y  No Centralizadas--> Kassandra
 - Analisis de Vulnerabilidades en la informacion y datos.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
-
-###End
